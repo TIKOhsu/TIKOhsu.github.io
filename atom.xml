@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tikohsu.com</id>
+    <id>https://tiko.github.io</id>
     <title>Gridea</title>
-    <updated>2020-08-23T13:02:10.007Z</updated>
+    <updated>2020-08-23T13:29:13.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tikohsu.com"/>
-    <link rel="self" href="https://tikohsu.com/atom.xml"/>
+    <link rel="alternate" href="https://tiko.github.io"/>
+    <link rel="self" href="https://tiko.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://tikohsu.com/images/avatar.png</logo>
-    <icon>https://tikohsu.com/favicon.ico</icon>
+    <logo>https://tiko.github.io/images/avatar.png</logo>
+    <icon>https://tiko.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://tikohsu.com/post/hello-gridea/</id>
-        <link href="https://tikohsu.com/post/hello-gridea/">
+        <id>https://tiko.github.io/post/hello-gridea/</id>
+        <link href="https://tiko.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
