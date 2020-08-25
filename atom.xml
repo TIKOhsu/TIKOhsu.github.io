@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tikohsu.github.io/</id>
     <title>TIKO HSU </title>
-    <updated>2020-08-25T14:40:27.439Z</updated>
+    <updated>2020-08-25T19:41:23.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tikohsu.github.io/"/>
     <link rel="self" href="https://tikohsu.github.io/atom.xml"/>
@@ -10,4 +10,21 @@
     <logo>https://tikohsu.github.io/images/avatar.png</logo>
     <icon>https://tikohsu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, TIKO HSU </rights>
+    <entry>
+        <title type="html"><![CDATA[侮辱的基本形式——不把人当人看]]></title>
+        <id>https://tikohsu.github.io/post/wu-ru-de-ji-ben-xing-shi-bu-ba-ren-dang-ren-kan/</id>
+        <link href="https://tikohsu.github.io/post/wu-ru-de-ji-ben-xing-shi-bu-ba-ren-dang-ren-kan/">
+        </link>
+        <updated>2020-08-25T12:24:43.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>我们早已将人的定义权夺回，但如今依然还有不少人妄想将自己神化，去定义他人。
+</code></pre>
+<p>是人？还是商品？<br>
+在消费主义的浪潮下，人到底是如何被定义的？从定义的整个过程来观察，这和商品买卖密不可分的，可以说个体是以物品来展现自我的。首先商品被创造出（它们存在的合理性时由消费偏好，购买能力等经济因素组成），其次通过各种步骤和渠道出现在消费展示端（如：便利店，购物商场，线上店铺，广告等），最后由消费者选中并且购买。此上三个过程中，人对人的定义便出现在了最后两步，即销售与购买。在此我并不是全盘否定这种商品与消费者信息沟通的方式，显然这能更好的为整个过程带来资源的更优匹配，我所抨击的是那些利用不平等话语权去给消费者洗脑从而攫取利益的定义人的行为。<br>
+在后两步里，人的器物化已经发挥到极致，似乎芸芸众生的七情六欲可以随意被定义甚至过度定义。譬如爱情的物化就是那一枚戒指，美貌的物化既是品牌所标签的化妆品，阶级上升既是高档奢侈品... 似乎生活的乐趣和意义都只发生在购买或是追随商品上，自我所有的外在表达可以被无数个商品来承包，总之坚信一个真理 ——“我买故我在”。<br>
+这种器物化看起来甚是好笑，这种宗教般的热衷追捧让“信徒”的脑子显得空洞洞。虽说选择是自由的，但实则选择的过程并不是完全自由的，“空洞洞”也许是商品价值的输出的一种结果，即将定义转化到被定义者的价值观中。但是同样为人，个体的自我定义为什么会被他人左右？其实就在话语权。<br>
+消费者萌生的第一个需求并不是完全“自创”的，而是由无数个品牌日积月累的重复出现而引导成，而一个人的一个需求，提供给品牌的机会只有一个，所以占位几率最高的商品是话语权最高的品牌方，就如少女时想买的第一支口红既是chanel。同时在关于自我定义上，个人并没有较好的了解自我，谁会在少女时认真探讨美对自己来说究竟是怎样的？更没有人会意识到的“买就对了”这一行为实则将自己的表达权交出，而这种懒惰换来了商品对个体完整表达”人“这一天然正当需求的践踏，换来了不知”人买Lv还是Lv买人“的悖论。<br>
+消费者对自我需求的不够清晰造成了品牌对人的肆意定义，利润和价值成为生产的真正目的，在个体的定义和自我表达上商品反客为主，公然宣称”我你是身份的象征“，将人器化，否定人的自主性。<br>
+人对于商品生产来说就是工具，即现在所俗称的工具人。</p>
+]]></content>
+    </entry>
 </feed>
