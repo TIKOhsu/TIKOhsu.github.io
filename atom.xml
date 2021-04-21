@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tikohsu.com</id>
+    <id>https://tikohsu.github.io/</id>
     <title>TIKO HSU </title>
-    <updated>2021-04-21T15:35:19.596Z</updated>
+    <updated>2021-04-21T15:37:23.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tikohsu.com"/>
-    <link rel="self" href="https://tikohsu.com/atom.xml"/>
+    <link rel="alternate" href="https://tikohsu.github.io/"/>
+    <link rel="self" href="https://tikohsu.github.io/atom.xml"/>
     <subtitle>Here I am</subtitle>
-    <logo>https://tikohsu.com/images/avatar.png</logo>
-    <icon>https://tikohsu.com/favicon.ico</icon>
+    <logo>https://tikohsu.github.io/images/avatar.png</logo>
+    <icon>https://tikohsu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, TIKO HSU </rights>
     <entry>
         <title type="html"><![CDATA[侮辱的基本形式——不把人当人看]]></title>
-        <id>https://tikohsu.com/post/wu-ru-de-ji-ben-xing-shi-bu-ba-ren-dang-ren-kan/</id>
-        <link href="https://tikohsu.com/post/wu-ru-de-ji-ben-xing-shi-bu-ba-ren-dang-ren-kan/">
+        <id>https://tikohsu.github.io/post/wu-ru-de-ji-ben-xing-shi-bu-ba-ren-dang-ren-kan/</id>
+        <link href="https://tikohsu.github.io/post/wu-ru-de-ji-ben-xing-shi-bu-ba-ren-dang-ren-kan/">
         </link>
         <updated>2020-08-25T12:24:43.000Z</updated>
         <content type="html"><![CDATA[<pre><code>我们早已将人的定义权夺回，但如今依然还有不少人妄想将自己神化，去定义他人。
