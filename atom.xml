@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tikohsu.github.io/</id>
     <title>TIKO HSU </title>
-    <updated>2020-08-25T19:49:35.377Z</updated>
+    <updated>2021-04-21T15:28:21.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tikohsu.github.io/"/>
     <link rel="self" href="https://tikohsu.github.io/atom.xml"/>
     <subtitle>Here I am</subtitle>
     <logo>https://tikohsu.github.io/images/avatar.png</logo>
     <icon>https://tikohsu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, TIKO HSU </rights>
+    <rights>All rights reserved 2021, TIKO HSU </rights>
     <entry>
         <title type="html"><![CDATA[侮辱的基本形式——不把人当人看]]></title>
         <id>https://tikohsu.github.io/post/wu-ru-de-ji-ben-xing-shi-bu-ba-ren-dang-ren-kan/</id>
