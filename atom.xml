@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tikohsu.github.io/</id>
     <title>TIKO HSU </title>
-    <updated>2021-04-21T15:43:43.586Z</updated>
+    <updated>2021-04-21T15:48:01.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tikohsu.github.io/"/>
     <link rel="self" href="https://tikohsu.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://tikohsu.github.io/images/avatar.png</logo>
     <icon>https://tikohsu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, TIKO HSU </rights>
+    <entry>
+        <title type="html"><![CDATA[我们面对的是溢出的欲望]]></title>
+        <id>https://tikohsu.github.io/post/wo-men-mian-dui-de-shi-yi-chu-de-yu-wang/</id>
+        <link href="https://tikohsu.github.io/post/wo-men-mian-dui-de-shi-yi-chu-de-yu-wang/">
+        </link>
+        <updated>2021-04-21T15:43:49.000Z</updated>
+        <content type="html"><![CDATA[<p>有时候我觉得伊甸园里面的那条蛇就像是资本本身。<br>
+虽然如今我们赞扬自由，但是其对立面之所以成为现代性的对立面，是因为诉说历史的人其实是最想要亦或是最需要自由的。因而在某种程度上我们的意识其实是掺杂着部分个体的私欲，冠冕堂皇并不一定是真理，它们有可能是极具魅惑的包装，诱惑着我们这个被蛇定义成的工具人去为之奋斗。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[侮辱的基本形式——不把人当人看]]></title>
         <id>https://tikohsu.github.io/post/wu-ru-de-ji-ben-xing-shi-bu-ba-ren-dang-ren-kan/</id>
